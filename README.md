@@ -33,7 +33,7 @@ GET /api/prompts/trending?category=photo
 ```
 
 Параметры:
-- `category` (обязательный): Категория промптов (Art, Logos, Graphics, Productivity, Marketing, Photo, Games)
+- `category` (обязательный): Категория промптов (art, logos, graphics, productivity, marketing, photo, games)
 
 ## Документация
 ```
