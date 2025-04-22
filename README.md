@@ -20,7 +20,7 @@ API для получения трендовых промптов с сайта 
 
 2. Запустите контейнер с помощью Docker Compose:
    ```bash
-   docker-compose up -d
+   docker-compose up --build
    ```
 
 Сервер будет доступен по адресу http://localhost:8000
